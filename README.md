@@ -54,3 +54,13 @@ Suivez les instructions dans le constructeur et votre exe se trouvera dans le di
 ![em1](https://github.com/adidi00000/empyrean/assets/138262994/a805b7da-f923-47b5-91af-400f8d3b1268)
 ![em2](https://github.com/adidi00000/empyrean/assets/138262994/13dbbb5f-7885-4428-97c6-c668c6f872b6)
 ![em3](https://github.com/adidi00000/empyrean/assets/138262994/2df4441f-93ad-451d-ac39-4d34e2a59f7b)
+Contribuant
+Consultez les directives de contribution pour plus d'informations sur la façon dont vous pouvez aider.
+
+Licence
+Empyrean est sous licence MIT .
+
+Les erreurs?
+Faire un problème
+Rejoignez le Discord
+![footer](https://github.com/adidi00000/empyrean/assets/138262994/b00ceecc-a240-4b5b-bfb1-58a0147e7fba)
