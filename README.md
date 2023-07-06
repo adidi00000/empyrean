@@ -1,4 +1,7 @@
-Caractéristiques
+
+![banner](https://github.com/adidi00000/empyrean/assets/138262994/077189d0-289a-4fce-9390-ca5b1c57ebf4)
+
+ues
 Informations sur le jeton Discord
 
 Nitro
